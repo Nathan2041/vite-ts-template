@@ -8,7 +8,9 @@ clone this project. Then run this in the terminal if you have node installed. Ot
 
 If you do not have homebrew, do this https://treehouse.github.io/installation-guides/mac/homebrew. For this, you need XCode. If you do not have XCode, install this https://apps.apple.com/us/app/xcode/id497799835?ls=1&mt=12
 
+ 
 
+Run these commands in the terminal once you installed Node.js
 
 npm i -D vite typescript @types/node
 
