@@ -18,6 +18,8 @@ npm i -D vite typescript @types/node
 
 npm i -D ts-pattern eslint @eslint/js typescript-eslint chalk
 
+If you installed eslint, also get this extension https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
+
 # Usage
 
 npm run dev
