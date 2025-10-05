@@ -12,6 +12,8 @@ If you do not have homebrew, do this https://treehouse.github.io/installation-gu
 
 Run these commands in the VSCode terminal once you installed Node.js
 
+npm init -y
+
 npm i -D vite typescript @types/node
 
 ### Optional
