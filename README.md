@@ -4,6 +4,12 @@ NOTE: only put in eslint-plugin.js and eslint.config.mjs if you are installing e
 
 # Installation
 
+clone this project. Then run this in the terminal if you have node installed. Otherwise, install Node.js if you have Homebrew. via https://treehouse.github.io/installation-guides/mac/node-mac.html.
+
+If you do not have homebrew, do this https://treehouse.github.io/installation-guides/mac/homebrew. For this, you need XCode. If you do not have XCode, install this https://apps.apple.com/us/app/xcode/id497799835?ls=1&mt=12
+
+
+
 npm i -D vite typescript @types/node
 
 ### Optional
